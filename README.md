@@ -8,4 +8,4 @@ La intenció, de moment, és que algú busqui la informació de la festa, la red
 
 Aquí tenim un fitxer amb el codi que estic utilitzant per a aquest projecte.
 
-- [Fitxer amb el codi de Google App Script]()
+- [Fitxer amb el codi de Google App Script](Código.gs)
